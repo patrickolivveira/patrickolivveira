@@ -1,14 +1,15 @@
 <h1>Hi there 👋</h1>
 
-<p>I'm Patrick Mendonça Oliveira, I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> <strong>Franca, Brazil</strong>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> <strong>Florianopolis, Brazil</strong>.</p>
+<p>I'm <strong>Patrick Mendonça Oliveira</strong>, I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> Franca, Brazil, currently living in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> <strong>Florianopolis, Brazil</strong>.</p>
 
-<p>I've been working as Developer since 2014 and currently I'm Front-End Developer at Binamik.</p>
+<p>I've been working as Developer since 2014 and currently I'm <strong>Front-End Developer</strong> at Binamik.</p>
 
 <p>In my free time I like to travel, to watch (and play) basketball, to watch movies and series, to cook, to ride a bike, to listen to music and podcast and eventually I like to take a nature pictures.</p>
 
 <h2>Technologies I work (or have worked):</h2>
 
 <p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat&logo=javascript&logoColor=F7DF1E&color=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat&logo=vue.js&logoColor=white&color=4FC08D" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
