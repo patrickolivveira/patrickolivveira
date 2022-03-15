@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p>I'm <strong>Patrick Mendonça Oliveira</strong>, I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> Franca, Brazil, currently living in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> <strong>Florianopolis, Brazil</strong>.</p>
+<p>I'm <strong>Patrick Mendonça Oliveira</strong>, I'm from Franca, Brazil, currently living in <strong>Florianopolis, Brazil</strong>.</p>
 
 <p>I've been working as Developer since 2014 and currently I'm <strong>Front-End Developer</strong> @ <a href="https://binamik.com.br/" target="_blank">Binamik</a>.</p>
 
