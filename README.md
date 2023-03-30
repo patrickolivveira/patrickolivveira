@@ -2,7 +2,7 @@
 
 <p>I'm <strong>Patrick Mendonça Oliveira</strong>, I'm from Franca, Brazil, currently living in <strong>Florianopolis, Brazil</strong>.</p>
 
-<p>I've been working as Developer since 2014 and currently I'm <strong>Front-End Software Engineer</strong> @ <a href="https://binamik.com.br/" target="_blank">PagBank PagSeguro</a>.</p>
+<p>I've been working as Developer since 2014 and currently I'm <strong>Front-End Software Engineer</strong> @ <strong>PagBank PagSeguro</strong>.</p>
 
 <p>In my free time I like to travel, to watch (and play) basketball, to watch movies and series, to cook, to ride a bike, to listen to music and podcast and eventually I like to take a nature pictures.</p>
 
